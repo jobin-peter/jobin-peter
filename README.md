@@ -3,7 +3,7 @@
 
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=jobinzpeter&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=jobin-peter&repo=github-visitors-badge&countColor=%237B1E7A)
 ---
 
 
@@ -52,7 +52,7 @@ I am a Site Reliability Engineer from India :white_flag:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobinzpeter&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobin-peter&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ---
