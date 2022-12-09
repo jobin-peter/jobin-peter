@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=jobinzpeter&repo=github-visitors-badge&countColor=%237B1E7A)
+---
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="300"/>
 </div>
@@ -29,15 +36,30 @@ I am a Site Reliability Engineer from India :white_flag:
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitlabCI" **alt="GitlabCI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" **alt="Prometheus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
+ <img src="https://vocon-it.com/wp-content/uploads/2016/12/2016-12-14-01_22_32.png" title="Mesos and Marathon" **alt="Mesos and Marathon" width="140" height="40"/>
+  <img src="https://www.graylog.org/wp-content/uploads/2022/08/GL_GLICON.svg" title="Graylog" **alt="Graylog" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" title="Elasticsearch" **alt="Elasticsearch" width="80" height="40"/>
+ </div>
 
-  
-  
-  
-  
-</div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobinzpeter&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+---
+
+### 📩 Connect With Me on ⬇️
+  - [![Linkedin Badge](https://img.shields.io/badge/Jobin-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-peter-13a59713a/)
+  - 📫 [Mail](mailto:myselfjobin@gmail.com)
   
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+  
+
