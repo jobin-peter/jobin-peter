@@ -53,9 +53,9 @@ I am a Site Reliability Engineer from India :white_flag:
 ### :student: Certifications : 
 
 <div>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="AZ-900" alt="AZ-900" width="80" height="60"/>&nbsp;
-<img src="https://3.bp.blogspot.com/-xOjiW9DIfVA/VUorXFMSfpI/AAAAAAAAAeg/H6hoeywxZN8/s1600/Red%2BHat%2BCertified%2BEngineer%2B(RHCE)%2Bex300%2Bexam.jpg" title="RHCE" alt="RHCE" width="140" height="110"/>&nbsp;
-<img src="https://7labs.io/wp-content/uploads/2018/06/Red-Hat-RHCSA-Exam-Questions-2.jpg" title="RHCE" alt="RHCE" width="110" height="90"/>&nbsp;
+<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" title="CKA" alt="CKA" width=80 height="80"/>&nbsp;
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="AZ-900" alt="AZ-900" width="80" height="70"/>&nbsp;
+<img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" title="RHCE" alt="RHCE" width="100" height="110"/>&nbsp;
 </div>
 
 ---
