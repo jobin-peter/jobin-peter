@@ -68,7 +68,7 @@ I am a Site Reliability Engineer from India :white_flag:
 ---
 
 ### 📩 Connect With Me on ⬇️
-  - [![Linkedin Badge](https://img.shields.io/badge/Jobin-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-peter-13a59713a/)
+  - [![Linkedin Badge](https://img.shields.io/badge/Jobin-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-peter/)
   - 📫 [Mail](mailto:myselfjobin@gmail.com)
   
   
